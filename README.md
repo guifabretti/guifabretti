@@ -2,6 +2,7 @@
 
 - 👨‍🎓 Cursando o 3° ano do ensino médio
 - 💻 Estudando programação online
+- 📥 Email: guidfabretti@gmail.com
 
 ##
 
