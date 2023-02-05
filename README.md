@@ -1,7 +1,7 @@
 ### Eae! Eu sou Guilherme Fabretti 👋
 
-- 👨‍🎓 Cursando o 3° ano do ensino médio
-- 💻 Estudando programação online
+- 💻 Constantemente estudando tecnologia
+- 👨‍🎓 Cursando Ciência da Computação na FUMEP - EEP
 - 📥 Email: guidfabretti@gmail.com
 
 ##
