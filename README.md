@@ -2,7 +2,7 @@
 
 - 💻 Constantemente estudando tecnologia
 - 👨‍🎓 Cursando Ciência da Computação na FUMEP - EEP
-- 📥 Email: guidfabretti@gmail.com
+- 📥 Email: guidfabretti@hotmail.com
 
 ##
 
