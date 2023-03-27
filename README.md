@@ -1,25 +1,28 @@
-### Eae! Eu sou Guilherme Fabretti 👋
+<h2>Hi there! 👋</h2>
 
-- 💻 Constantemente estudando tecnologia
-- 👨‍🎓 Cursando Ciência da Computação na FUMEP - EEP
+<img align="right" height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guifabretti&layout=compact&langs_count=7&theme=radical"/>
+
+- :raising_hand_man: I am Guilherme Fabretti
+- 💻 Constantly studying about technology
+- 👨‍🎓 1th year undergraduate computer science in FUMEP - EEP
 - 📥 Email: guidfabretti@hotmail.com
 
-##
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guifabretti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guifabretti&layout=compact&langs_count=7&theme=radical"/>
-</div>
- 
-##  
-  
-  
-  <p align="center">
+ <p align="left">
     <a href="https://api.whatsapp.com/send?phone=5519999684545" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     <a href="https://instagram.com/guifabretti_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:guifabretti@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermefabretti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+##
+    
+  <h3>Languages & Tools I Know...</h3>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,python,git,github,vscode" />
+  </a>
+</p>
+
+##
    
  ![Snake animation](https://github.com/guifabretti/guifabretti/blob/output/github-contribution-grid-snake.svg)
