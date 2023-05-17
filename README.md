@@ -1,6 +1,6 @@
 <h2>Hi there! 👋</h2>
 
-<img align="right" height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guifabretti&layout=compact&langs_count=7&theme=radical"/>
+<img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guifabretti&layout=compact&langs_count=7&theme=radical"/>
 
 - :raising_hand_man: I am Guilherme Fabretti
 - 💻 Constantly studying about technology
