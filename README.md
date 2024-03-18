@@ -22,7 +22,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,c,cpp,mysql,python,flask,arduino,git,vscode,figma" />
   </a>
 </p>
-
-##
-   
- ![Snake animation](https://github.com/guifabretti/guifabretti/blob/output/github-contribution-grid-snake.svg)
