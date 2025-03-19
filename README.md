@@ -18,6 +18,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=mysql,python,flask,arduino,git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=mysql,php,wordpress,python,flask,arduino,git,figma" />
   </a>
 </p>
