@@ -4,7 +4,7 @@
 
 - :raising_hand_man: I'm Guilherme Fabretti 
 - 💻 Constantly studying about technology
-- 👨‍🎓 2nd year undergraduate ***Computer Science*** at FUMEP - EEP
+- 👨‍🎓 3nd year undergraduate ***Computer Science*** at FUMEP - EEP
 - 📥 Email: guidfabretti@hotmail.com
 
  <p align="left">
